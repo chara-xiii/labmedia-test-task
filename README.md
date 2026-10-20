@@ -1,1 +1,0 @@
-# labmedia-test-task
